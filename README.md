@@ -1,2 +1,2 @@
-# sololabs-website-background
+# sololabs
 sololabs novel reading
